@@ -26,7 +26,7 @@ This program can segment 21 types of semantics or only segment the person.
 Each methodology has similar input parameters with different outputs.
 Besice, the program alse provides two segmentation architectures,FCN-16 or FCN-32.
 
-### Loading a pre-trained BodyPix Model
+### Loading a pre-trained Model
 
 To get started, a model must be loaded from a checkpoint:
 
@@ -93,4 +93,4 @@ The index.html file is in [there](https://github.com/MemoriesOff/github_blog/blo
 The tfjs implementation of the mobileNet model is refer to [body-pix](https://github.com/tensorflow/tfjs-models/tree/7481b941c26edae6b963042b8e260123984532a5/body-pix) and the model weights come from [seg-mentor](https://github.com/hailotech/seg-mentor)
 
 ## License
-The sourse code is licensed Apache License, Version 2.0 and the model weights is licensed MIT.
+The sourse code is licensed [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) and the model weights is licensed [MIT](http://opensource.org/licenses/mit-license.php).
